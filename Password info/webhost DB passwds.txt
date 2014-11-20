@@ -1,0 +1,4 @@
+$mysql_host = "mysql10.000webhost.com";
+$mysql_database = "a1267636_login";
+$mysql_user = "a1267636_admin";
+$mysql_password = "group5DB";
